@@ -1,7 +1,7 @@
 ## 自己紹介 
 - 名前: K.H
 - 職種 / 役割: ソフトウェアエンジニア（バックエンド中心、フルスタック対応）  
-- 専門分野: レガシーシステムマイグレーション、Java / Spring Boot、TypeScript / React、データベース設計  
+- 専門分野: レガシーシステムマイグレーション、Java / Spring Boot、TypeScript / React / Next.js  
 - 強み:
   - レガシー（Struts / Flex / iBatis）からモダンスタックへの移行経験
   - 自動変換ツールや手順書によるナレッジ共有でチーム生産性を向上
