@@ -1,6 +1,6 @@
 # ◇ これまでの案件（実績）一覧 ◇
 
-# ● レガシーシステムの技術刷新  
+# ■ レガシーシステムの技術刷新  
 **Flex（ActionScript）＋Struts → React ＋ Spring Boot マイグレーション**
 
 ---
