@@ -10,12 +10,12 @@
 ---
 
 ## スキル・ツール
-- 言語: Java (17/21), TypeScript, JavaScript, ActionScript（既存保守）
+- 言語: Java (17/21), TypeScript, JavaScript, ActionScript（移行経験）
 - フレームワーク: Spring Boot 3, React 18, Next.js
 - DB / ORM: Oracle DB, MyBatis, iBatis（移行経験）
-- インフラ / CI: GitLab / GitHub, Docker, GitHub Actions
-- 開発支援: ESLint, Jest, IntelliJ IDEA, VS Code
-- その他ツール: SQL Developer, TortoiseSVN, IP Messenger
+- インフラ / CI: GitLab / GitHub, GitHub Actions
+- 開発支援: ESLint, Jest, IntelliJ IDEA, VS Code, Eclipse
+- その他ツール: SQL Developer, TortoiseSVN, IP Messenger, Slack, Teams
 
 ---
 
