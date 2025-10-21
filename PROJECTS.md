@@ -1,4 +1,4 @@
-<img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/686e4130-d937-42cb-9368-28c9928243c3" /># ◇ これまでの案件（実績）一覧 ◇
+# ◇ これまでの案件（実績）一覧 ◇
 
 # ■ レガシーシステムの技術刷新  
 **Flex（ActionScript）＋Struts → React ＋ Spring Boot マイグレーション**
