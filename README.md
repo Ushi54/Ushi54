@@ -4,18 +4,18 @@
 - 専門分野: レガシーシステムマイグレーション、Java / Spring Boot、TypeScript / React / Next.js  
 - 強み:
   - レガシー（Struts / Flex / iBatis）からモダンスタックへの移行経験
-  - 自動変換ツールや手順書によるナレッジ共有でチーム生産性を向上
-  - 要件定義〜設計〜実装〜運用までの幅広いフェーズ経験
+  - 業務効率化ツール作成や手順書作成によるナレッジ共有でチーム生産性を向上
+  - 製造〜検証〜運用までの幅広いフェーズ経験
 
 ---
 
 ## スキル・ツール
-- 言語: Java (17/21), TypeScript, JavaScript, ActionScript（移行経験）
-- フレームワーク: Spring Boot 3, React 18, Next.js
+- 言語: Java (21), TypeScript, JavaScript, ActionScript（移行経験）
+- フレームワーク: Spring Boot3, React, Next.js
 - DB / ORM: Oracle DB, MyBatis, iBatis（移行経験）
-- インフラ / CI: GitLab / GitHub, GitHub Actions
+- バージョン管理: Git, GitLab / GitHub, TortoiseSVN
 - 開発支援: ESLint, Jest, IntelliJ IDEA, VS Code, Eclipse
-- その他ツール: SQL Developer, TortoiseSVN, IP Messenger, Slack, Teams
+- その他ツール: SQL Developer, IP Messenger, Slack, Teams
 
 ---
 
